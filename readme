@@ -1,0 +1,5 @@
+2-1 Reciprocal.ccp	Original program. rotation ratio - 2:1 , 700 rpm
+4-1 Reciprocal2.cpp	rotation ratio - 4:1, 400 rpm, 3/4 circle, output trigger pulse on both motor
+4-1 Reciprocal.cpp	rotation ratio - 4:1, 40 rpm, full circle, output trigger pulse on both motor
+Axis C 3 Quarters.ccp	Motor C  only, 3 quarters rotation, 400 rpm, output pulse trigger.
+Axis C Reciprocal.ccp	Motor C  only, full  quarters rotation, 400 rpm output pulse trigger.
